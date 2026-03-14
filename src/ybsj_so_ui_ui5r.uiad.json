@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "\"Fiori Elements App for Sales Order Management v4",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Manage Sales Orders"
+  },
+  "ui5AppDetails": {
+    "appId": "zbsjv4.salesorderappv4"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_AB025C178234C506F23B34FF854ECF0D10C2492F_TM",
+    "semanticObject": "SalesOrder",
+    "action": "manage",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_AB025C178234C506F23B34FF854ECF0D10C2492F_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Manage Sales Orders",
+        "subtitle": "RAP Application"
+      }
+    }
+  ]
+}
