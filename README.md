@@ -1,4 +1,4 @@
-# Sales Order Management — SAP RAP on SAP BTP
+# Sales Order Management - SAP RAP on SAP BTP
 
 A full-stack enterprise Sales Order application built using the **SAP RESTful Application Programming (RAP)** model on **SAP Business Technology Platform (BTP)**, simulating a real-world B2B order lifecycle from creation to payment.
 
